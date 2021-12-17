@@ -3,6 +3,7 @@
 
 # production
 /build
+/serverless/packaged.yaml
 
 # misc
 .DS_Store
